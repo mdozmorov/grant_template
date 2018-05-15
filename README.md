@@ -24,7 +24,9 @@ Figures for the research plan
 
 ## `styles.doc`
 
-- `NIH_grant_style.docx` - template for 0.5 inch margins and Arial 11pt font
+- `NIH_grant_style.docx` - template with 0.5 inch margins and Arial 11pt font
+- `NSF_grant_style.docx` - template with 1.0 inch margins and Arial 11pt font
+
 
 ## `styles.ref`
 
