@@ -1,3 +1,5 @@
+See [MDtemplate](https://github.com/mdozmorov/MDtemplate) for the latest templates
+
 # Template for organizing grant-related material in R Markdown
 
 - `Abstract.Rmd` - lay abstract
